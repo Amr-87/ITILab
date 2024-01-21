@@ -7,11 +7,11 @@
            
         }
     }
-    class HelloWorld
+    class HelloSwift
     {
-       public static void PrintHelloWorld()
+       public static void PrintHelloSwift()
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Swift!");
         }
     }
     class HelloITI
