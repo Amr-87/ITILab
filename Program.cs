@@ -20,5 +20,9 @@
         {
             Console.WriteLine("HelloITI");
         }
+	public static void PrintHelloGit()
+	{
+	    Console.WriteLine("HelloGit");	
+	}
     }
 }
